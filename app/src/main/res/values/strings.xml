@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Recyle</string>
+    <string-array name="titles">
+        <item>Alpha\nVersion-1.0\nApk level-1\nReleased-23-Sept-2008</item>
+        <item>Beta\nVersion-1.0\nApk level-2\nReleased-23-Sept-2008</item>
+        <item>Cupcake\nVersion-1.5\nApk level-3\nReleased-23-Sept-2008</item>
+        <item>Donut\nVersion-1.6\nApk level-4\nReleased-23-Sept-2008</item>
+        <item>Eclair\nVersion-2.0 and 2.1\nApk level-5-7\nReleased-26-Oct-2009</item>
+        <item>Froyo\nVersion-2.2\nApk level-8\nReleased-26-Oct-2009</item>
+        <item>Ginger Bread\nVersion-2.3\nApk level-9-10\nReleased-26-Oct-2009</item>
+        <item>Honeycomb\nVersion-3.0\nApk level-11-13\nReleased-22-Feb-2011</item>
+        <item>Icecream Sandwich\nVersion-4.0\nApk level-14-15\nReleased-18-Oct-2011</item>
+        <item>Jelly Bean\nVersion-4.1\nApk level-15-18\nReleased-18-Oct-2011</item>
+        <item>Kitkat\nVersion-4.4\nApk level-19-20\nReleased-18-Oct-2011</item>
+        <item>Lollipop\nVersion-5.0\nApk level-21-22\nReleased-12-Nov-2014</item>
+        <item>Marshmallow\nVersion-6.0\nApk level-23\nReleased-5-Oct-2015</item>
+        <item>Nought\nVersion-7.0\nApk level-24\nReleased-22-Aug-2016</item>
+        <item>Oreo\nVersion-8.0\nApk level-26\nReleased-21-Aug-2017</item>
+        <item>9.0 PienVersion-9.0\nApk level-28\nReleased-6-Aug-2018</item>
+        <item>10.0 Q\nVersion-10\nApk level-29\nReleased-Sept 2019</item>
+        <item>Android 11\nVersion-11\nApk level-30\nReleased-Sept 8, 2020\n</item>
+    </string-array>
+
+
+
+</resources>
